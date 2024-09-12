@@ -1,0 +1,23 @@
+PROGRAM abc 
+VAR a,b,c,d,e,f,bca:INTEGER 
+@#$
+BEGIN
+a:=5;
+c:=105.5;
+d:=8;
+FOR b:=1 TO 50
+ DO
+   BEGIN
+    READ(b,d,e) ;
+      c:=b+c;
+   END
+ 
+ FOR e:=1 TO 50
+ DO
+   BEGIN
+      WRITE(c,d) ;
+      d:=b*d;e:=e*5-7+12-430+b;
+      e:=d DIV 6;
+      f:=d+5*7 DIV b*c+d
+   END
+END.

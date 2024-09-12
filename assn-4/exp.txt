@@ -1,0 +1,10 @@
+PROGRAM AS
+VAR  SUM,SUMSQ,I,VALUE,S,B,MEAN,VARIANCE:INTEGER; A,B:REAL
+ BEGIN   
+ FOR I := 1 TO A DO
+   BEGIN
+      I:= 5;
+      B:=7.5+7.6;
+      SUM:=A+B
+   END 
+  END.

@@ -1,0 +1,21 @@
+PROGRAM STATS
+VAR  SUM,SUMSQ,I,Y,VALUE,MEAN,VARIANCE:INTEGER; a,a,bc,M:INTEGER;g,h:REAL; m,n,Ma,Nb:REAL
+ BEGIN
+  a:=0;
+  SUM := bc*10 + 100000 -90+ 80+I-Y DIV VALUE*MEAN;
+  g:=80.5*78.5;
+  FOR I:=h TO Y  DO 
+   BEGIN
+   h:=5.78 DIV 8.78;
+    READ(X,Y,Z,C);
+    WRITE(M,N);
+    FOR I:=1 TO 100   DO 
+     BEGIN
+       a:=5 DIV 8+ I *Y+C;
+       READ(X1,Y1);
+       WRITE(Ma,Nb)
+     END
+    END
+ hujji
+  END.
+  END.

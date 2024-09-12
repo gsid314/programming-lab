@@ -1,0 +1,25 @@
+PROGRAM abc 
+VAR a,b,c,d,e:INTEGER 
+
+BEGIN
+a:=5;
+c:=105;
+d:=8;
+FOR b:=1 TO 50
+ DO
+   BEGIN
+    READ(b) ;
+      c:=b+c;
+  END;
+  
+  FOR b:=1 TO 50
+ DO
+   BEGIN
+    READ(b) ;
+      c:=b+c;
+  END111 ;
+END--
+
+
+
+ 
